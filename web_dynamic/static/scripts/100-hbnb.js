@@ -79,3 +79,4 @@ ${places[i].description}
       console.log('error ' + status);
     }
   });
+}
